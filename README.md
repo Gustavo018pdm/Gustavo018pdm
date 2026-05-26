@@ -18,16 +18,19 @@ Atualmente estou estudando programação, versionamento de código e buscando cr
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas e Atividades do Perfil
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo018pdm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo018pdm&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+Como os servidores externos de gráficos às vezes oscilam, aqui está o resumo real das minhas atividades na plataforma de forma direta e integrada:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo018pdm&theme=tokyonight" alt="GitHub Streak" />
-</div>
+* 🛠️ **Foco Atual:** Desenvolvimento Frontend (HTML/CSS/JS) & UI/UX Design no Figma.
+* 🚀 **Projetos Ativos:** Repositórios focados em soluções corporativas e landing pages institucionais.
+* 🔧 **Infraestrutura:** Repositórios de documentação e estudos práticos voltados para redes de computadores.
+
+| Métrica de Código | Status do Perfil |
+| :--- | :--- |
+| **Código Aberto** | Disponível para contribuições e colaborações em equipe |
+| **Versionamento** | Fluxo de trabalho baseado em boas práticas do Git |
+| **Projetos Práticos** | Focado na aplicação real de conceitos de Metodologias Ágeis (Scrum) |
 
 ---
 
@@ -56,13 +59,3 @@ Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferrame
 <div align="center">
   <i>"A tecnologia move o mundo." — Steve Jobs</i>
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
