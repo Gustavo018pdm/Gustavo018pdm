@@ -1,66 +1,61 @@
-# Olá, eu sou o Gustavo! 👋
+<div align="center">
+  <h1>Olá, eu sou o Gustavo! 👋</h1>
+</div>
 
-## 🚀 Sobre Mim
-Sou um profissional focado em tecnologia, unindo o desenvolvimento de software com a infraestrutura de TI. Tenho experiência prática no ecossistema de desenvolvimento Web (Frontend), design de interfaces utilizando o Figma e também na área de suporte técnico e redes estruturadas. 
+### 🚀 Tecnologias & Ferramentas 🎨 Design & Prototipação
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-Atualmente, busco criar soluções digitais eficientes, funcionais e com design atraente.
+### 🛠️ Ferramentas & Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+### 👤 Sobre Mim
+Sou apaixonado por tecnologia, design e desenvolvimento. Unindo o desenvolvimento de software com a infraestrutura de TI, tenho experiência prática no ecossistema de desenvolvimento Web (Frontend), criação de interfaces utilizando o Figma, suporte técnico e redes estruturadas (cabeamento de rede, crimpagem de cabos LAN e organização de racks).
 
-## 🛠️ Tecnologias e Habilidades
+Atualmente estou estudando programação, versionamento de código e buscando criar soluções digitais eficientes, funcionais e com design atraente.
 
-### 💻 Desenvolvimento & Design
-| Categoria | Tecnologias / Ferramentas |
-| :--- | :--- |
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Design / UI/UX** | Figma |
-| **Editor de Código** | Visual Studio Code |
-| **Controle de Versão** | Git, GitHub |
-
-### 🔌 Infraestrutura & Suporte
-* **Suporte Técnico:** Diagnóstico de hardware/software e resolução de problemas.
-* **Cabeamento de Rede:** Montagem de infraestrutura de rede local (LAN), crimpagem de cabos (par trançado), organização de racks e identificação de pontos de rede.
+### 📚 Atualmente Estudando
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-Abaixo estão as suas métricas automáticas que serão atualizadas conforme você atualiza seus repositórios:
+### 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo018pdm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo018pdm&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
----
-
-## 🎨 Projetos em Destaque
-
-### 🌐 TecTudo - Landing Page Institucional
-* **Descrição:** Projeto de uma landing page moderna para a empresa fictícia de tecnologia "TecTudo", focada em inovação e conexões de rede.
-* **Tecnologias:** Figma (UI/UX), HTML, CSS, JavaScript.
-* **Visual do Projeto:**
-  
-  <div align="center">
-    <img src="https://images.unsplash.com/photo-1531403009284-440f080d1e12?auto=format&fit=crop&w=800&q=80" alt="Demonstração do Projeto TecTudo" width="80%">
-  </div>
-
----
-
-## 📫 Como me encontrar
-
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-* **E-mail:** seu.email@provedor.com
-
 <div align="center">
-  <sub>Pronto para colaborar em novos projetos de desenvolvimento ou infraestrutura! ⚡</sub>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gustavo018pdm&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+---
 
-<!--
-**Gustavo018pdm/Gustavo018pdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎨 Projetos em Destaque
 
-Here are some ideas to get you started:
+#### 🌐 TecTudo - Landing Page Institucional
+* **Descrição:** Projeto de uma landing page moderna para a empresa de tecnologia "TecTudo", focada em inovação e conexões de rede.
+* **Tecnologias:** Figma (UI/UX), HTML, CSS, JavaScript.
+
+---
+
+### 🌐 Redes Sociais
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-617147311/) [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavopopo387@gmail.com)
+
+---
+
+### 🎯 Objetivo
+Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades em desenvolvimento frontend e infraestrutura de redes.
+
+### 👤 Perfil Visitantes
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gustavo018pdm&color=blue&style=flat-square" alt="Contador de Visitas" />
+</div>
+
+### ⚡ Frase Motivacional
+<div align="center">
+  <i>"A tecnologia move o mundo." — Steve Jobs</i>
+</div>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
