@@ -7,10 +7,21 @@
 
 👨‍💻 Sobre Mim
 
-Olá! Meu nome é Gustavo 👋
-Sou apaixonado por tecnologia, design e desenvolvimento. Unindo o desenvolvimento de software com a infraestrutura de TI, tenho experiência prática no ecossistema de desenvolvimento Web (Frontend), criação de interfaces utilizando o Figma, suporte técnico e redes estruturadas (cabeamento de rede, crimpagem de cabos LAN e organização de racks).
+Olá! Meu nome é Gustavo Nascimento de Souza 👋
 
-Atualmente estou estudando programação, versionamento de código e buscando criar soluções digitais eficientes, funcionais e com design atraente.
+Sou um profissional focado em tecnologia com uma trajetória diversa e resiliente. Unindo o desenvolvimento de software com a infraestrutura de TI, possuo experiência prática no ecossistema Web (Frontend), criação de interfaces no Figma, suporte técnico e redes estruturadas (como cabeamento, crimpagem de cabos LAN e organização de racks). 
+
+Minha base profissional inclui uma sólida experiência prática anterior com montagem de escadas rolantes, o que me trouxe forte senso de organização, precisão técnica e trabalho em equipe. Busco constantemente evoluir e hoje utilizo essa bagagem analítica para criar soluções digitais eficientes e bem estruturadas.
+
+---
+
+### 🎓 Formação & Certificações
+
+* **Ensino Médio Completo**
+* **Formação em Tecnologia / Desenvolvimento** — Plataforma PROA
+* **Curso de Ciência de Dados** — SENAI
+
+---
 
 📚 Atualmente Estudando
 <p> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
@@ -43,7 +54,7 @@ Atualmente estou estudando programação, versionamento de código e buscando cr
 
 ✨ Objetivo
 
-Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades em desenvolvimento frontend e infraestrutura de redes.
+Buscando evoluir constantemente na área de tecnologia, aprendendo novas ferramentas e desenvolvendo projetos para fortalecer minhas habilidades em desenvolvimento frontend, análise de dados e infraestrutura de TI.
 
 💻 Perfil Visitantes
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=Gustavo018pdm&color=blue&style=for-the-badge"/> </div>
